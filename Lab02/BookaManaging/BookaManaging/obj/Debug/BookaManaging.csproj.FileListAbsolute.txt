@@ -1,0 +1,7 @@
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\bin\Debug\BookaManaging.exe.config
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\bin\Debug\BookaManaging.exe
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\bin\Debug\BookaManaging.pdb
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\obj\Debug\BookaManaging.csproj.AssemblyReference.cache
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\obj\Debug\BookaManaging.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\obj\Debug\BookaManaging.exe
+D:\Tài Liệu Học Tập\windowFormC3\BookaManaging\BookaManaging\obj\Debug\BookaManaging.pdb

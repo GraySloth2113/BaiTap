@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\BookaManaging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{769A2164-8454-451E-AB1B-DE694DAA5802}|BookaManaging\\BookaManaging.csproj|d:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\windowformc3\\bookamanaging\\bookamanaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769A2164-8454-451E-AB1B-DE694DAA5802}|BookaManaging\\BookaManaging.csproj|solutionrelative:bookamanaging\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\BookaManaging\\BookaManaging\\Program.cs",
+              "RelativeDocumentMoniker": "BookaManaging\\Program.cs",
+              "ToolTip": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\BookaManaging\\BookaManaging\\Program.cs",
+              "RelativeToolTip": "BookaManaging\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:58:25.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

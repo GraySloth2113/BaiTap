@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\Lab04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17B6B-2540-446E-AEBD-3A3688A23B5C}|Lab04\\Lab04.csproj|d:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\windowformc3\\lab04\\lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B17B6B-2540-446E-AEBD-3A3688A23B5C}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B17B6B-2540-446E-AEBD-3A3688A23B5C}|Lab04\\Lab04.csproj|d:\\t\u00E0i li\u1EC7u h\u1ECDc t\u1EADp\\windowformc3\\lab04\\lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8B17B6B-2540-446E-AEBD-3A3688A23B5C}|Lab04\\Lab04.csproj|solutionrelative:lab04\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\Lab04\\Lab04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04\\Form1.cs",
+              "ToolTip": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\Lab04\\Lab04\\Form1.cs",
+              "RelativeToolTip": "Lab04\\Form1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T01:08:36.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\Lab04\\Lab04\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab04\\Form1.cs",
+              "ToolTip": "D:\\T\u00E0i Li\u1EC7u H\u1ECDc T\u1EADp\\windowFormC3\\Lab04\\Lab04\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab04\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-12T00:52:19.364Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

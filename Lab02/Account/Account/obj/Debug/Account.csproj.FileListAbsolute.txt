@@ -1,0 +1,7 @@
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\obj\Debug\Account.csproj.AssemblyReference.cache
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\bin\Debug\Account.exe.config
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\bin\Debug\Account.exe
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\bin\Debug\Account.pdb
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\obj\Debug\Account.exe
+D:\Tài Liệu Học Tập\windowFormC3\Account\Account\obj\Debug\Account.pdb
